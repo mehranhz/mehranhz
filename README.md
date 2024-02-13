@@ -2,9 +2,9 @@
 
 ### I'm Mehran Hosseinzadeh
 <!-- Description -->
-A Front-end developer from Iran.
+A Fullstack developer.
 <br>
-Bachelor of chemistry and interested on aviation
+Bachelor of Computer Scinence.
 <!-- End of description -->
 
 <!-- Hello world animation -->
