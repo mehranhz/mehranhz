@@ -17,15 +17,15 @@ Bachelor of chemistry and interested on aviation
 <!-- Github stats -->
 
 <a href="https://github.com/amirmahdioun">
-  <img align="left" width="41%" src="https://github-readme-stats.vercel.app/api?username=amirmahdioun&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img align="left" width="41%" src="https://github-readme-stats.vercel.app/api?username=mehranhz&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </a>
 
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmahdioun&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehranhz&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 
 <!-- End of stats -->
 <!-- Graph -->
 
-<img src="https://activity-graph.herokuapp.com/graph?username=amirmahdioun&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> 
+<img src="https://activity-graph.herokuapp.com/graph?username=mehranhz&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> 
 
 <!-- End of graph -->
 
@@ -72,16 +72,12 @@ Bachelor of chemistry and interested on aviation
 
 <!-- End of language -->
 
-<!-- Contact me -->
-#### Contact me
 
-[![Instagram Badge](https://img.shields.io/badge/-@amir_spain-red?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/amir_spain/)](https://instagram.com/amir_spain)
-[![Telegram Badge](https://img.shields.io/badge/-@amir_spain-blue?style=flat&logo=telegram&logoColor=white&link=https://www.telegram.me/amir_spain)](https://www.telegram.me/amir_spain)
 
 <!-- End of contact me -->
 
 <img align="left"
-  src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/amirmahdioun&style=for-the-badge">
+  src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/mehranhz&style=for-the-badge">
 <!--
 **Amir hossein Mahdioun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
