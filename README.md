@@ -4,13 +4,13 @@
 <!-- Description -->
 A Fullstack developer.
 <br>
-Bachelor of Computer Scinence.
+Bachelor of Computer Science.
 <!-- End of description -->
 
 <!-- Hello world animation -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Amir+hossein+Mahdioun+....;Nice+to+meet+you!&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mehran+....;Nice+to+meet+you!&center=true&size=20">
   </a>
 </h1>
 
